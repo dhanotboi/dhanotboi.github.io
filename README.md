@@ -1,3 +1,3 @@
-# dhaboi.github.io
-for randoms stuff I do
+### dhaboi.github.io
+for random stuff I do
 
